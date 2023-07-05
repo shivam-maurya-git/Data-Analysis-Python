@@ -15,3 +15,7 @@ Datasource Credits: I have added to link of all datasets which I used for analys
 4. imdb_top_1000_ movies : **https://www.kaggle.com/datasets/arthurchongg/imdb-top-1000-movies**
 
    Kaggle Notebook : **https://www.kaggle.com/code/mauryansshivam/insights-from-imdb-top-1000-movies**
+
+5. movies_dataset : **https://www.kaggle.com/datasets/ashishkumarjayswal/movies-dataset**
+
+   Kaggle Notebook : **https://www.kaggle.com/code/mauryansshivam/cleaned-movies-dataset**
