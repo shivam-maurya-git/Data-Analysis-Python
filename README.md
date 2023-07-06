@@ -23,3 +23,8 @@ Datasource Credits: I have added to link of all datasets which I used for analys
 6. world_largest_50_malls : **https://www.kaggle.com/datasets/drahulsingh/largest-malls**
 
    Kaggle Notebook : **https://www.kaggle.com/code/mauryansshivam/best-performing-country-largest-malls-dataset**
+
+7. uk_news_headlines : **https://www.kaggle.com/datasets/dexmasa/uk-news-headlines**
+
+   Kaggle Notebook : **https://www.kaggle.com/code/mauryansshivam/eda-uk-news-websites-headlines**
+
