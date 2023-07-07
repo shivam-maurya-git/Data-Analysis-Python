@@ -1,0 +1,40 @@
+Description of columns is given below:
+time : time when event is reported
+
+depth : the depth in km below earth surface where earthquakes begins to rupture. Typical range : [0, 1000]
+
+mag : the magnitude for the event. Typical range : [-1.0, 10.0]
+
+magType : The method or algorithm used to calculate the preferred magnitude for the event. Possible values are “Md”, “Ml”, “Ms”, “Mw”, “Me”, “Mi”, “Mb”, “MLg”.
+
+nst : The total number of seismic stations used to determine earthquake location.
+
+gap : largest angle between two neighboring seismic monitoring stations around an earthquake. It measures how well the earthquake's horizontal position can be determined. Typical value range is [0.0, 180.0]
+
+dmin : Horizontal distance from the epicenter to the nearest station (in degrees). 1 degree is approximately 111.2 kilometers. In general, the smaller this number, the more reliable is the calculated depth of the earthquake. Typical Values are in [0.4, 7.1].
+
+rms : root-mean -square error. It measures the how model is better fil to predict arrival time of event for a location.
+
+net : Identified network source for information of an event. Typical values are ak, at, ci, hv, ld, mb, nc, nm, nn, pr, pt, se, us, uu, uw.
+
+id : A unique identifier for the event.
+
+updated: Time when event is most recently updated.
+
+type : Type of seismic event. Typical values are “earthquake”, “quarry”.
+
+HorizontalError : Uncertainty of reported location of the event in kilometers. Typical values are in [0, 100].
+
+depthError : Uncertainty of reported depth of the event in kilometers. Typical values are in [0, 100].
+
+magError : Uncertainty of reported magnitude of an event. Typical values are in [0, 100].
+
+magNst : The total number of seismic stations used to calculate the magnitude for this earthquake. (Not to be confused with nst.)
+
+status : Indicates whether the event has been reviewed by a human. It may be automatically processed by machines. Typical values are reviewed, automatic, deleted.
+
+locationSource : The network that originally authored the reported location of this event. Typical values are ak, at, ci, hv, ld, mb, nc, nm, nn, pr, pt, se, us, uu, uw.
+
+magSource : Network that originally authored the reported magnitude for this event.
+
+Noted From (at some places, copied from) : USGS
