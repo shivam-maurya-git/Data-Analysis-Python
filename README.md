@@ -28,3 +28,7 @@ Datasource Credits: I have added to link of all datasets which I used for analys
 
    Kaggle Notebook : **https://www.kaggle.com/code/mauryansshivam/eda-uk-news-websites-headlines**
 
+8. earthquake_data_usgs : **https://www.kaggle.com/datasets/mauryansshivam/earthquake-data-by-usgs-6-jun23-6-jul23**
+
+   Kaggle Notebook : **https://www.kaggle.com/code/mauryansshivam/earthquake-probability-distributions-eda**
+
