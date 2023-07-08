@@ -25,10 +25,14 @@ Datasource Credits: I have added to link of all datasets which I used for analys
    Kaggle Notebook : **https://www.kaggle.com/code/mauryansshivam/best-performing-country-largest-malls-dataset**
 
 7. uk_news_headlines : **https://www.kaggle.com/datasets/dexmasa/uk-news-headlines**
+   
 
    Kaggle Notebook : **https://www.kaggle.com/code/mauryansshivam/eda-uk-news-websites-headlines**
 
-8. earthquake_data_usgs : **https://www.kaggle.com/datasets/mauryansshivam/earthquake-data-by-usgs-6-jun23-6-jul23**
+9. earthquake_data_usgs : **https://www.kaggle.com/datasets/mauryansshivam/earthquake-data-by-usgs-6-jun23-6-jul23**
 
    Kaggle Notebook : **https://www.kaggle.com/code/mauryansshivam/earthquake-probability-distributions-eda**
 
+10. company_reviews : **https://www.kaggle.com/datasets/shuvammandal121/9000-companies-and-its-ratings-dataset**
+
+    Kaggle Notebook : **https://www.kaggle.com/code/mauryansshivam/insights-from-reviews-of-comapnies/notebook**
