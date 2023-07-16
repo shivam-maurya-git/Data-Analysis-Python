@@ -48,3 +48,7 @@ Datasource Credits: I have added to link of all datasets which I used for analys
 13. uber_ride_data  : **https://www.kaggle.com/datasets/bhanupratapbiswas/uber-data-analysis**
 
     Kaggle Notebook : **https://www.kaggle.com/code/mauryansshivam/top-destinations-with-purpose-in-uber-data**
+
+14. tech_companies_datacenter : **https://www.kaggle.com/datasets/mauryansshivam/list-of-data-centers-of-top-tech-companies**
+
+    Kaggle Notebook : **https://www.kaggle.com/code/mauryansshivam/global-map-of-data-centers-of-top-tech-companies**
