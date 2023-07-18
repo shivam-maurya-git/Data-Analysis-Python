@@ -52,3 +52,11 @@ Datasource Credits: I have added to link of all datasets which I used for analys
 14. tech_companies_datacenter : **https://www.kaggle.com/datasets/mauryansshivam/list-of-data-centers-of-top-tech-companies**
 
     Kaggle Notebook : **https://www.kaggle.com/code/mauryansshivam/global-map-of-data-centers-of-top-tech-companies**
+    
+15. netflix_revenue : **https://www.kaggle.com/datasets/mauryansshivam/netflix-ott-revenue-and-subscribers-csv-file**
+
+    Kaggle Notebook : **https://www.kaggle.com/code/mauryansshivam/trends-in-netflix**
+
+16. imd_rainfall : **https://www.kaggle.com/datasets/ankitgaikar1995/imd-rainfall-dataset-2022**
+
+    Kaggle Notebook : **https://www.kaggle.com/code/mauryansshivam/data-cleaning-of-imd-rain-fall-dataset**
